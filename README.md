@@ -36,4 +36,4 @@ Python, Pandas, Matplotlib & Seaborn, WordCloud, Sastrawi, TextBlob & NaiveBayes
 ## 📌 Insight yang Didapat
 Berdasarkan hasil analisis yang didapatkan, mayoritas ulasan pengguna terkait aplikasi BRIMO di platform Google Play Store (Android) bersentimen `positif`, walaupun beberapa ulasan ditemukan keluhan terkait teknik aplikasi.
 
-**Analisis Sentimen ini mengambil refensi dari Channel Youtube**  🔗 https://www.youtube.com/@DeinonyCode
+**Analisis Sentimen ini mengambil referensi dari Channel Youtube**  🔗 https://www.youtube.com/@DeinonyCode
