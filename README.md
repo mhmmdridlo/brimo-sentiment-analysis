@@ -17,18 +17,6 @@ memahami persepsi pengguna terhadap aplikasi ini melalui klasifikasi sentimen.
 └───sentiment_analysis.ipynb
 ```
 
-submission
-├───dashboard
-| ├───main_data.csv
-| └───dashboard.py
-├───data
-| ├───data_1.csv
-| └───data_2.csv
-├───notebook.ipynb
-├───README.md
-└───requirements.txt
-└───url.txt
-
 ## 🧰 Library
 Python, Pandas, Matplotlib & Seaborn, WordCloud, Sastrawi, TextBlob & NaiveBayesClassifier, NLTK, Translate
 
@@ -48,4 +36,4 @@ Python, Pandas, Matplotlib & Seaborn, WordCloud, Sastrawi, TextBlob & NaiveBayes
 ## 📌 Insight yang Didapat
 Berdasarkan hasil analisis yang didapatkan, mayoritas ulasan pengguna terkait aplikasi BRIMO di platform Google Play Store (Android) bersentimen `positif`, walaupun beberapa ulasan ditemukan keluhan terkait teknik aplikasi.
 
-**Analisis Sentimen ini mengambil refensi dari Channel Youtube  🔗 https://www.youtube.com/@DeinonyCode
+**Analisis Sentimen ini mengambil refensi dari Channel Youtube**  🔗 https://www.youtube.com/@DeinonyCode
